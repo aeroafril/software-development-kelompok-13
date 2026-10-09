@@ -1,4 +1,10 @@
-**Peran dan kontribusi dari Project Manager**
+*Backend*
+
+**Nama peran**
+
+Aero Afril Drasando
+
+**Peran dan kontribusi**
 
 - Menentukan apa saja yang akan dibuat dan target waktunya
 - Membagi tugas ke tim
