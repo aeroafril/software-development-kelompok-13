@@ -1,10 +1,10 @@
-*Backend*
+# **Backend**
 
-**Nama peran**
+## Nama peran
 
 Aero Afril Drasando
 
-**Peran dan kontribusi**
+## Peran dan kontribusi
 
 - Menentukan apa saja yang akan dibuat dan target waktunya
 - Membagi tugas ke tim
